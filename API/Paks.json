@@ -1,0 +1,32 @@
+[
+    {
+        "name": "pakchunk0-WindowsClient",
+        "extension": "pak",
+        "size": 775754
+    },
+    {
+        "name": "pakchunk0-WindowsClient",
+        "extension": "sig",
+        "size": 48
+    },
+    {
+        "name": "pakchunk1-WindowsClient",
+        "extension": "pak",
+        "size": 3445315
+    },
+    {
+        "name": "pakchunk1-WindowsClient",
+        "extension": "sig",
+        "size": 211
+    },
+    {
+        "name": "pakchunk2-WindowsClient",
+        "extension": "pak",
+        "size": 412311
+    },
+    {
+        "name": "pakchunk2-WindowsClient",
+        "extension": "sig",
+        "size": 26
+    }
+]
